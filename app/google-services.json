@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368614583897",
+    "project_id": "gboard-sticker-test",
+    "storage_bucket": "gboard-sticker-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368614583897:android:79f07477b8cd3d63ac4b48",
+        "android_client_info": {
+          "package_name": "com.example.gboardsticker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368614583897-i25f74iuomvlb6oj9l2l5g5tv3jikv7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF1gTCLaLupPme5Vq6k7DfXxVbbu0grPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368614583897-i25f74iuomvlb6oj9l2l5g5tv3jikv7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
